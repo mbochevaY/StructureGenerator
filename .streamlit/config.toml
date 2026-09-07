@@ -1,0 +1,36 @@
+[server]
+enableStaticServing = true
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F4F6F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0B1220"
+borderColor = "#D0D5DD"
+baseRadius = "none"
+buttonRadius = "none"
+showWidgetBorder = true
+showSidebarBorder = true
+font = "Latin Modern Math, Georgia, serif"
+headingFont = "Latin Modern Math, Georgia, serif"
+linkColor = "#0F766E"
+
+[[theme.fontFaces]]
+family = "Latin Modern Math"
+url = "app/static/latinmodern-math.otf"
+weight = 400
+style = "normal"
+
+[theme.sidebar]
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#151C2C"
+textColor = "#E8EEF5"
+primaryColor = "#2DD4BF"
+borderColor = "#334155"
+baseRadius = "none"
+buttonRadius = "none"
+showWidgetBorder = true
+linkColor = "#5EEAD4"
+font = "Latin Modern Math, Georgia, serif"
+headingFont = "Latin Modern Math, Georgia, serif"

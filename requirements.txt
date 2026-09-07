@@ -1,0 +1,3 @@
+streamlit>=1.51
+matplotlib
+pillow
